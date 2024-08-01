@@ -48,4 +48,13 @@ REFERENCES:
 
 ![website overview](https://github.com/user-attachments/assets/c574567c-40d0-4b2c-80af-1c1d661c2e32)
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgements
+
+- [PyTorch](https://pytorch.org/)
+- [Streamlit](https://streamlit.io/)
+
 
