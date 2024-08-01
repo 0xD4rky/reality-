@@ -29,3 +29,18 @@ This project implements a deep learning model for detecting deepfake images usin
 
 ## Project Structure
 ![Screenshot (591)](https://github.com/user-attachments/assets/c5425031-b072-4488-96d0-49d941d99023)
+
+## Installation
+
+1. Clone the repository:
+
+   `git clone https://github.com/0xD4rky/reality-`
+
+2. Install the required packages:
+
+   `pip install -r requirements.txt`
+
+3. Run the Streamlit app:
+
+   `cd app`
+   `streamlit run app.py`
