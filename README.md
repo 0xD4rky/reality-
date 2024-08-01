@@ -23,5 +23,4 @@ This project implements a deep learning model for detecting deepfake images usin
 - Model architecture summary display
 
 ## Project Structure
-
-![struct]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (591).png")
+![Screenshot (591)](https://github.com/user-attachments/assets/c5425031-b072-4488-96d0-49d941d99023)
