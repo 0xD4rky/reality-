@@ -23,22 +23,6 @@ This project implements a deep learning model for detecting deepfake images usin
 - Model architecture summary display
 
 ## Project Structure
-reality/
-│
-├── app/
-│   ├── app.py
-│   └── mod.py
-│
-├── project/
-│   ├── arch.py
-│   ├── train.py
-│   └── vis.py
-│
-├── data/
-│   ├── train/
-│   └── val/
-│
-├── assets/
-│   ├── icons/
-│   └── style.css
-│
+
+![struct][![image](https://github.com/user-attachments/assets/57d19373-4fd6-45bc-b2a9-767319e71bd5)
+
