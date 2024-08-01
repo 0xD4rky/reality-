@@ -34,13 +34,21 @@ This project implements a deep learning model for detecting deepfake images usin
 
 1. Clone the repository:
 
-   ```git clone https://github.com/0xD4rky/reality-```
+   ```
+   git clone https://github.com/0xD4rky/reality-
+   ```
 
-2. Install the required packages:
+3. Install the required packages:
 
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
-3. Run the Streamlit app:
+5. Run the Streamlit app:
 
-   ```cd app```
-   ```streamlit run app.py```
+   ```
+   cd app
+   ```
+   ```
+   streamlit run app.py
+   ```
