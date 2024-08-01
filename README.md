@@ -24,4 +24,4 @@ This project implements a deep learning model for detecting deepfake images usin
 
 ## Project Structure
 
-![struct]["C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (591).png"]
+![struct]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (591).png")
