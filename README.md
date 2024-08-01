@@ -3,6 +3,11 @@
 ## Project Overview
 This project implements multiple deep learning architectures so as to detect fake images or ai generated images. The application is built with PyTorch and Streamlit, providing an interactive web interface for users to upload and analyze images.
 
+REFERENCES:
+
+1. [siamese net](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+2. [xceptionet fine-tuning](https://discuss.pytorch.org/t/xception-finetune/19195)
+
 ## Features
 - Utilizes a fine-tuned VGG16 model for high-accuracy deepfake detection
 - Interactive web interface for easy image upload and analysis
